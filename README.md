@@ -84,13 +84,6 @@ ai-skilling-twin/
 
 ---
 
-## 💬 Get Involved
-
-We welcome contributions from developers, educators, and linguists!  
-Whether it's improving regional language support, expanding skill modules, or testing new ideas—join us in building inclusive AI for all.
-
----
-
 ## 📜 License
 
 Licensed under the **MIT License** – open for personal, academic, and commercial use with attribution.
