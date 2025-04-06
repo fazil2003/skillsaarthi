@@ -56,7 +56,7 @@ Millions of youth from rural and underserved communities lack access to practica
 ## 📂 Repository Structure
 
 ```bash
-ai-skilling-twin/
+skillsaarthi/
 ├── app/                   # Android app code (Kotlin)
 ├── ai-engine/             # AI twin logic and model integration
 ├── mockups/               # Diagrams, wireframes
